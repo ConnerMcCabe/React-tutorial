@@ -45,11 +45,23 @@ ol, ul {
   
 .game {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
   
 .game-info {
     margin-left: 30px;
     font-size: 5vmin;
     width: 200px;
+}
+
+.game-board {
+    display: flex;
+    flex-direction: row;
+}
+
+.bill-board {
+    margin: auto;
+    padding: 5vmin;
 }
