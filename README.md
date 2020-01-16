@@ -1,3 +1,7 @@
+This is a simple react app built using the tutorial on react.org for learning the basics of react.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
